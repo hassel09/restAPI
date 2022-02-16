@@ -1,0 +1,11 @@
+{
+  "CGM": [
+  {"id": 1, "datetime": "20-12-2021 16:00", "glucose": 7}
+  ],
+  "Basal": [
+  {"id": 1, "datetime": "20-12-2021 08:00", "glucose": 7.5, "dose": 5}
+  ],
+  "Bolus": [
+  {"id": 1, "datetime": "20-12-2021 12:00", "glucose": 7.5, "dose": 5}
+  ]
+}
